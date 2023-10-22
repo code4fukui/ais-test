@@ -1,0 +1,14 @@
+{
+  "Message": {
+    "UnknownMessage": {}
+  },
+  "MessageType": "UnknownMessage",
+  "MetaData": {
+    "MMSI": 219007462,
+    "MMSI_String": 219007462,
+    "ShipName": "SEA DIVER",
+    "latitude": 54.65653833333333,
+    "longitude": 11.348258333333332,
+    "time_utc": "2023-10-22 22:47:36.936387205 +0000 UTC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Message": {
+    "BaseStationReport": {
+      "CommunicationState": 99678,
+      "FixType": 7,
+      "Latitude": 54.17180333333333,
+      "LongRangeEnable": false,
+      "Longitude": 19.387715,
+      "MessageID": 4,
+      "PositionAccuracy": true,
+      "Raim": false,
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "UserID": 2610400,
+      "UtcDay": 22,
+      "UtcHour": 22,
+      "UtcMinute": 47,
+      "UtcMonth": 10,
+      "UtcSecond": 36,
+      "UtcYear": 2023,
+      "Valid": true
+    }
+  },
+  "MessageType": "BaseStationReport",
+  "MetaData": {
+    "MMSI": 2610400,
+    "MMSI_String": 2610400,
+    "ShipName": "",
+    "latitude": 54.17180333333333,
+    "longitude": 19.387715,
+    "time_utc": "2023-10-22 22:47:36.792896311 +0000 UTC"
+  }
+}

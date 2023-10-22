@@ -1,0 +1,34 @@
+{
+  "Message": {
+    "AssignedModeCommand": {
+      "Commands": {
+        "0": {
+          "DestinationID": 574004870,
+          "Increment": 0,
+          "Offset": 200,
+          "Valid": true
+        },
+        "1": {
+          "DestinationID": 574004870,
+          "Increment": 0,
+          "Offset": 200,
+          "Valid": true
+        }
+      },
+      "MessageID": 16,
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "UserID": 5744050,
+      "Valid": true
+    }
+  },
+  "MessageType": "AssignedModeCommand",
+  "MetaData": {
+    "MMSI": 5744050,
+    "MMSI_String": 5744050,
+    "ShipName": "",
+    "latitude": 10.708688333333333,
+    "longitude": 106.74389666666666,
+    "time_utc": "2023-10-22 22:47:36.799031423 +0000 UTC"
+  }
+}

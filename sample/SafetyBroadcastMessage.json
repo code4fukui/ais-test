@@ -1,0 +1,21 @@
+{
+  "Message": {
+    "SafetyBroadcastMessage": {
+      "MessageID": 14,
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "Text": "MOB TEST",
+      "UserID": 970854294,
+      "Valid": true
+    }
+  },
+  "MessageType": "SafetyBroadcastMessage",
+  "MetaData": {
+    "MMSI": 970854294,
+    "MMSI_String": 970854294,
+    "ShipName": "KASATKA             ",
+    "latitude": 42.781715,
+    "longitude": 133.04503333333335,
+    "time_utc": "2023-10-22 22:47:11.852034221 +0000 UTC"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Message": {
+    "MultiSlotBinaryMessage": {
+      "ApplicationID": {
+        "DesignatedAreaCode": 995,
+        "FunctionIdentifier": 0,
+        "Valid": true
+      },
+      "ApplicationIDValid": true,
+      "CommunicationState": 2122,
+      "CommunicationStateIsItdma": false,
+      "DestinationID": 0,
+      "DestinationIDValid": false,
+      "MessageID": 26,
+      "Payload": "\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u0000\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0001\u0001\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0001\u0001\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "RepeatIndicator": 0,
+      "Spare1": 0,
+      "Spare2": 0,
+      "UserID": 123451000,
+      "Valid": true
+    }
+  },
+  "MessageType": "MultiSlotBinaryMessage",
+  "MetaData": {
+    "MMSI": 123451000,
+    "MMSI_String": 123451000,
+    "ShipName": "",
+    "latitude": 47.023761666666665,
+    "longitude": -2.303186666666667,
+    "time_utc": "2023-10-22 22:47:32.064410441 +0000 UTC"
+  }
+}

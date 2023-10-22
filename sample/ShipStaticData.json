@@ -1,0 +1,41 @@
+{
+  "Message": {
+    "ShipStaticData": {
+      "AisVersion": 2,
+      "CallSign": "PF7479",
+      "Destination": "ROTTERDAM",
+      "Dimension": {
+        "A": 18,
+        "B": 0,
+        "C": 0,
+        "D": 5
+      },
+      "Dte": false,
+      "Eta": {
+        "Day": 13,
+        "Hour": 18,
+        "Minute": 0,
+        "Month": 9
+      },
+      "FixType": 15,
+      "ImoNumber": 0,
+      "MaximumStaticDraught": 1.5,
+      "MessageID": 5,
+      "Name": "DE MAZE",
+      "RepeatIndicator": 0,
+      "Spare": false,
+      "Type": 69,
+      "UserID": 244780791,
+      "Valid": true
+    }
+  },
+  "MessageType": "ShipStaticData",
+  "MetaData": {
+    "MMSI": 244780791,
+    "MMSI_String": 244780791,
+    "ShipName": "DE MAZE",
+    "latitude": 51.907585000000005,
+    "longitude": 4.479146666666667,
+    "time_utc": "2023-10-22 22:47:36.938074512 +0000 UTC"
+  }
+}

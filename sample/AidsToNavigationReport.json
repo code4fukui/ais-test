@@ -1,0 +1,39 @@
+{
+  "Message": {
+    "AidsToNavigationReport": {
+      "AssignedMode": false,
+      "AtoN": 0,
+      "Dimension": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "Fixtype": 7,
+      "Latitude": 29.60315166666667,
+      "Longitude": -94.947565,
+      "MessageID": 21,
+      "Name": "74A                 ",
+      "NameExtension": "",
+      "OffPosition": false,
+      "PositionAccuracy": false,
+      "Raim": false,
+      "RepeatIndicator": 1,
+      "Spare": false,
+      "Timestamp": 61,
+      "Type": 14,
+      "UserID": 993682745,
+      "Valid": true,
+      "VirtualAtoN": false
+    }
+  },
+  "MessageType": "AidsToNavigationReport",
+  "MetaData": {
+    "MMSI": 993682745,
+    "MMSI_String": 993682745,
+    "ShipName": "",
+    "latitude": 29.60315166666667,
+    "longitude": -94.947565,
+    "time_utc": "2023-10-22 22:47:36.936035077 +0000 UTC"
+  }
+}

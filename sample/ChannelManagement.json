@@ -1,0 +1,41 @@
+{
+  "Message": {
+    "ChannelManagement": {
+      "Area": {
+        "Latitude1": 91,
+        "Latitude2": 91,
+        "Longitude1": 181,
+        "Longitude2": 181
+      },
+      "BwA": false,
+      "BwB": false,
+      "ChannelA": 2087,
+      "ChannelB": 2088,
+      "IsAddressed": false,
+      "LowPower": false,
+      "MessageID": 22,
+      "RepeatIndicator": 0,
+      "Spare1": 0,
+      "Spare4": 0,
+      "TransitionalZoneSize": 4,
+      "TxRxMode": 0,
+      "Unicast": {
+        "AddressStation1": 0,
+        "AddressStation2": 0,
+        "Spare2": 0,
+        "Spare3": 0
+      },
+      "UserID": 2241048,
+      "Valid": true
+    }
+  },
+  "MessageType": "ChannelManagement",
+  "MetaData": {
+    "MMSI": 2241048,
+    "MMSI_String": 2241048,
+    "ShipName": "VALENCIA",
+    "latitude": 39.44914333333334,
+    "longitude": -0.302215,
+    "time_utc": "2023-10-22 22:47:32.208378088 +0000 UTC"
+  }
+}

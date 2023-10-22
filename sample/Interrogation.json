@@ -1,0 +1,40 @@
+{
+  "Message": {
+    "Interrogation": {
+      "MessageID": 15,
+      "RepeatIndicator": 3,
+      "Spare": 0,
+      "Station1Msg1": {
+        "MessageID": 316004037,
+        "SlotOffset": 0,
+        "StationID": 316004037,
+        "Valid": true
+      },
+      "Station1Msg2": {
+        "MessageID": 0,
+        "SlotOffset": 0,
+        "Spare": 0,
+        "Valid": false
+      },
+      "Station2": {
+        "MessageID": 0,
+        "SlotOffset": 0,
+        "Spare1": 0,
+        "Spare2": 0,
+        "StationID": 0,
+        "Valid": false
+      },
+      "UserID": 3669987,
+      "Valid": true
+    }
+  },
+  "MessageType": "Interrogation",
+  "MetaData": {
+    "MMSI": 3669987,
+    "MMSI_String": 3669987,
+    "ShipName": "",
+    "latitude": 47.548925000000004,
+    "longitude": -122.78524,
+    "time_utc": "2023-10-22 22:47:36.040410633 +0000 UTC"
+  }
+}

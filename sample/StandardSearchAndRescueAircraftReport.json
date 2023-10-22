@@ -1,0 +1,34 @@
+{
+  "Message": {
+    "StandardSearchAndRescueAircraftReport": {
+      "AltFromBaro": false,
+      "Altitude": 193,
+      "AssignedMode": false,
+      "Cog": 14.8,
+      "CommunicationState": 27828,
+      "CommunicationStateIsItdma": false,
+      "Dte": true,
+      "Latitude": 55.12591,
+      "Longitude": -6.653495,
+      "MessageID": 9,
+      "PositionAccuracy": false,
+      "Raim": false,
+      "RepeatIndicator": 0,
+      "Sog": 73,
+      "Spare1": 0,
+      "Spare2": 0,
+      "Timestamp": 41,
+      "UserID": 111232527,
+      "Valid": true
+    }
+  },
+  "MessageType": "StandardSearchAndRescueAircraftReport",
+  "MetaData": {
+    "MMSI": 111232527,
+    "MMSI_String": 111232527,
+    "ShipName": "AW-189              ",
+    "latitude": 55.12591,
+    "longitude": -6.653495,
+    "time_utc": "2023-10-22 22:45:42.132310984 +0000 UTC"
+  }
+}

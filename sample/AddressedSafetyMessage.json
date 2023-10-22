@@ -1,0 +1,24 @@
+{
+  "Message": {
+    "AddressedSafetyMessage": {
+      "DestinationID": 367563240,
+      "MessageID": 12,
+      "RepeatIndicator": 0,
+      "Retransmission": false,
+      "Sequenceinteger": 0,
+      "Spare": false,
+      "Text": "REGULATED AREA:33CFR110.155L2***CABLE AREA",
+      "UserID": 993663012,
+      "Valid": true
+    }
+  },
+  "MessageType": "AddressedSafetyMessage",
+  "MetaData": {
+    "MMSI": 993663012,
+    "MMSI_String": 993663012,
+    "ShipName": "",
+    "latitude": 40.473259999999996,
+    "longitude": -74.35358666666666,
+    "time_utc": "2023-10-22 22:45:00.541680413 +0000 UTC"
+  }
+}

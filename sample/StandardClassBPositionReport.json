@@ -1,0 +1,37 @@
+{
+  "Message": {
+    "StandardClassBPositionReport": {
+      "AssignedMode": false,
+      "ClassBBand": false,
+      "ClassBDisplay": false,
+      "ClassBDsc": false,
+      "ClassBMsg22": false,
+      "ClassBUnit": false,
+      "Cog": 206.2,
+      "CommunicationState": 196614,
+      "CommunicationStateIsItdma": true,
+      "Latitude": 50.831300000000006,
+      "Longitude": -0.2713433333333333,
+      "MessageID": 18,
+      "PositionAccuracy": false,
+      "Raim": false,
+      "RepeatIndicator": 0,
+      "Sog": 0,
+      "Spare1": 0,
+      "Spare2": 0,
+      "Timestamp": 36,
+      "TrueHeading": 206,
+      "UserID": 232007164,
+      "Valid": true
+    }
+  },
+  "MessageType": "StandardClassBPositionReport",
+  "MetaData": {
+    "MMSI": 232007164,
+    "MMSI_String": 232007164,
+    "ShipName": "NEW DAWN",
+    "latitude": 50.831300000000006,
+    "longitude": -0.2713433333333333,
+    "time_utc": "2023-10-22 22:47:36.937202711 +0000 UTC"
+  }
+}

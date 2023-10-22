@@ -1,0 +1,29 @@
+{
+  "Message": {
+    "SingleSlotBinaryMessage": {
+      "ApplicationID": {
+        "DesignatedAreaCode": 0,
+        "FunctionIdentifier": 0,
+        "Valid": false
+      },
+      "ApplicationIDValid": false,
+      "DestinationID": 0,
+      "DestinationIDValid": false,
+      "MessageID": 25,
+      "Payload": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0001\u0000\u0001\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u0000\u0001\u0001\u0000\u0001\u0000\u0001\u0001\u0000\u0001\u0000\u0001\u0001\u0001\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0001\u0001\u0000\u0001\u0000\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0001\u0001\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000",
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "UserID": 567005557,
+      "Valid": true
+    }
+  },
+  "MessageType": "SingleSlotBinaryMessage",
+  "MetaData": {
+    "MMSI": 567005557,
+    "MMSI_String": 567005557,
+    "ShipName": "EF22122             ",
+    "latitude": 13.572735,
+    "longitude": 100.58084166666666,
+    "time_utc": "2023-10-22 22:47:36.110568885 +0000 UTC"
+  }
+}

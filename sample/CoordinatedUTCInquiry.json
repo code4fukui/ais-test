@@ -1,0 +1,22 @@
+{
+  "Message": {
+    "CoordinatedUTCInquiry": {
+      "DestinationID": 304667000,
+      "MessageID": 10,
+      "RepeatIndicator": 0,
+      "Spare1": 0,
+      "Spare2": 0,
+      "UserID": 258981000,
+      "Valid": true
+    }
+  },
+  "MessageType": "CoordinatedUTCInquiry",
+  "MetaData": {
+    "MMSI": 258981000,
+    "MMSI_String": 258981000,
+    "ShipName": "HOEGH LONDON        ",
+    "latitude": 31.897721666666666,
+    "longitude": 32.78884166666667,
+    "time_utc": "2023-10-22 22:46:54.050905654 +0000 UTC"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Message": {
+    "AddressedBinaryMessage": {
+      "ApplicationID": {
+        "DesignatedAreaCode": 200,
+        "FunctionIdentifier": 55,
+        "Valid": true
+      },
+      "BinaryData": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "DestinationID": 2268120,
+      "MessageID": 6,
+      "RepeatIndicator": 0,
+      "Retransmission": false,
+      "Sequenceinteger": 0,
+      "Spare": false,
+      "UserID": 205393590,
+      "Valid": true
+    }
+  },
+  "MessageType": "AddressedBinaryMessage",
+  "MetaData": {
+    "MMSI": 205393590,
+    "MMSI_String": 205393590,
+    "ShipName": "DE NIEUWE VISIE     ",
+    "latitude": 51.14796666666667,
+    "longitude": 2.7314366666666667,
+    "time_utc": "2023-10-22 22:47:36.796267871 +0000 UTC"
+  }
+}

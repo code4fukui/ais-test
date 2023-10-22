@@ -1,0 +1,32 @@
+{
+  "Message": {
+    "PositionReport": {
+      "Cog": 4.5,
+      "CommunicationState": 59916,
+      "Latitude": 55.990715,
+      "Longitude": -3.183045,
+      "MessageID": 3,
+      "NavigationalStatus": 3,
+      "PositionAccuracy": false,
+      "Raim": false,
+      "RateOfTurn": -128,
+      "RepeatIndicator": 0,
+      "Sog": 0,
+      "Spare": 0,
+      "SpecialManoeuvreIndicator": 0,
+      "Timestamp": 36,
+      "TrueHeading": 511,
+      "UserID": 250013879,
+      "Valid": true
+    }
+  },
+  "MessageType": "PositionReport",
+  "MetaData": {
+    "MMSI": 250013879,
+    "MMSI_String": 250013879,
+    "ShipName": "DINOPOTES           ",
+    "latitude": 55.990715,
+    "longitude": -3.183045,
+    "time_utc": "2023-10-22 22:47:36.94034384 +0000 UTC"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Message": {
+    "StaticDataReport": {
+      "MessageID": 24,
+      "PartNumber": true,
+      "RepeatIndicator": 0,
+      "ReportA": {
+        "Name": "",
+        "Valid": false
+      },
+      "ReportB": {
+        "CallSign": "LK 4676",
+        "Dimension": {
+          "A": 11,
+          "B": 3,
+          "C": 2,
+          "D": 2
+        },
+        "FixType": 0,
+        "ShipType": 30,
+        "Spare": 0,
+        "Valid": true,
+        "VenderIDModel": 1,
+        "VenderIDSerial": 607255,
+        "VendorIDName": "SRT"
+      },
+      "Reserved": 0,
+      "UserID": 257503600,
+      "Valid": true
+    }
+  },
+  "MessageType": "StaticDataReport",
+  "MetaData": {
+    "MMSI": 257503600,
+    "MMSI_String": 257503600,
+    "ShipName": "",
+    "latitude": 58.229825,
+    "longitude": 6.530085,
+    "time_utc": "2023-10-22 22:47:36.938683733 +0000 UTC"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Message": {
+    "BinaryAcknowledge": {
+      "Destinations": {
+        "0": {
+          "DestinationID": 211666200,
+          "Sequenceinteger": 0,
+          "Valid": true
+        },
+        "1": {
+          "DestinationID": 211526800,
+          "Sequenceinteger": 0,
+          "Valid": true
+        },
+        "2": {
+          "DestinationID": 0,
+          "Sequenceinteger": 0,
+          "Valid": false
+        },
+        "3": {
+          "DestinationID": 0,
+          "Sequenceinteger": 0,
+          "Valid": false
+        }
+      },
+      "MessageID": 7,
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "UserID": 2268404,
+      "Valid": true
+    }
+  },
+  "MessageType": "BinaryAcknowledge",
+  "MetaData": {
+    "MMSI": 2268404,
+    "MMSI_String": 2268404,
+    "ShipName": "",
+    "latitude": 48.68418,
+    "longitude": 7.9085383333333334,
+    "time_utc": "2023-10-22 22:47:35.021441937 +0000 UTC"
+  }
+}

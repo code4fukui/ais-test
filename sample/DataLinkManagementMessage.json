@@ -1,0 +1,50 @@
+{
+  "Message": {
+    "DataLinkManagementMessage": {
+      "Data": {
+        "0": {
+          "Increment": 750,
+          "Offset": 504,
+          "TimeOut": 6,
+          "Valid": false,
+          "integerOfSlots": 1
+        },
+        "1": {
+          "Increment": 250,
+          "Offset": 250,
+          "TimeOut": 6,
+          "Valid": false,
+          "integerOfSlots": 1
+        },
+        "2": {
+          "Increment": 0,
+          "Offset": 0,
+          "TimeOut": 0,
+          "Valid": false,
+          "integerOfSlots": 0
+        },
+        "3": {
+          "Increment": 0,
+          "Offset": 0,
+          "TimeOut": 0,
+          "Valid": false,
+          "integerOfSlots": 0
+        }
+      },
+      "MessageID": 20,
+      "RepeatIndicator": 0,
+      "Spare": 0,
+      "UserID": 4310704,
+      "Valid": true
+    }
+  },
+  "MessageType": "DataLinkManagementMessage",
+  "MetaData": {
+    "MMSI": 4310704,
+    "MMSI_String": 4310704,
+    "ShipName": "",
+    "latitude": 33.9715,
+    "longitude": 130.958,
+    "time_utc": "2023-10-22 22:47:36.909659789 +0000 UTC"
+  }
+}
